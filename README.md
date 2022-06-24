@@ -1,2 +1,2 @@
 # Project-PS
-Created at Faculty of Organizational Sciences as part of the Software Design course in November 2021.
+Created as a part of the faculty's course Software Design in November 2021.
